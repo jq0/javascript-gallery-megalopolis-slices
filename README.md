@@ -6,7 +6,7 @@ and remarkable Megapolis theme.
 [Download now](http://wowslider.com/) or see more [live demos..](http://wowslider.com/demo.html)
 
 <a href="http://wowslider.com/javascript-gallery-megalopolis-slices-demo.html">
-  <img src="https://raw.githubusercontent.com/jqcs/javascript-gallery-megalopolis-slices/master/javascript-gallery-megalopolis-slices.jpg">
+  <img src="https://raw.githubusercontent.com/jq0/javascript-gallery-megalopolis-slices/master/javascript-gallery-megalopolis-slices.jpg">
 </a>		
    
 #### Easy-to-use Carousel Maker
